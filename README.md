@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-reborn/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Love Reborn](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-reborn/) |
+| **Get License** | [Obtain a Music License for Love Reborn](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-reborn/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when you're looking my way
+> You got a magic that the night can't betray
+> Come a little closer, let the shadows play
+> We got a secret that the dawn won't delay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
